@@ -77,9 +77,9 @@
   "title": {
     "redemption": "禮品兌換",
     "contact": "通訊",
-    "home": "首頁",
-    "activity": "活動",
-    "profile": "我的",
+    "home": "",
+    "activity": "ESG獎賞活動",
+    "profile": "我的ESG空間",
     "qrcode": "二維碼",
     "settings": "設置",
     "asset_wallet": "我的資產",

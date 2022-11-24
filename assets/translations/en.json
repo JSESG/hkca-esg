@@ -73,9 +73,9 @@
   "title": {
     "redemption": "Gift Redemption",
     "contact": "Contact",
-    "home": "Home",
-    "activity": "Events",
-    "profile": "Me",
+    "home": "",
+    "activity": "ESG Events",
+    "profile": "My ESG",
     "qrcode": "QRCode",
     "settings": "Settings",
     "asset_wallet": "My Asset",
