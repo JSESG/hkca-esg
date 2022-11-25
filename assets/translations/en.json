@@ -179,6 +179,6 @@
     "1052": "The event was reached total check-in limit!",
     "1053": "You have reached the daily check-in limit!",
     "1054": "This event allow check-in 1 time only! No more check-ins are accepted!",
-    "1055": " You have to wait {} hour(s) for next check-in!"
+    "1055": "You have to wait {} hour(s) for next check-in!"
   }
 }
