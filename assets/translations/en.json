@@ -139,7 +139,7 @@
     "points": "{} Coins"
   },
   "profile": {
-    "points": "{} Coins"
+    "points": "X{}"
   },
   "dialog": {
     "check_in": {
@@ -163,10 +163,11 @@
   "error": {
     "title": "Error",
     "network": "Network Error",
-    "invalid_qrocde": "Invalid Qrcode",
+    "invalid_qrcode": "Invalid Qrcode",
     "1003": "Failed to redeem prize!",
     "1004": "Insufficient points to redeem!",
     "1005": "This prize does not belong to your organization!",
+    "1006": "You can redeem this prize once only!",
     "1020": "The prize redemption has expired!",
     "1021": "The prize was out of stock!",
     "1022": "The prize was not started for redeem!",
