@@ -141,6 +141,9 @@
   "profile": {
     "points": "X{}"
   },
+  "lucky_draw": {
+    "ticket_no": "Your ticket No.:{}"
+  },
   "dialog": {
     "check_in": {
       "title": "Check in successfully",
@@ -148,10 +151,15 @@
     },
     "redeem": {
       "title": "Redeem successfully",
-      "content": "Used {} coins to redeem \"{}\""
+      "content": "Used {} coins to redeem \"{}\"",
+      "ticket_no": "Your ticket No.:{}\nWe will announce the raffle results with SMS message later. Please pay attention to our mobile phone message."
     },
     "prize": {
       "title": "Redeem gift",
+      "content": "Confirm to use {} coins to redeem \"{}\"？"
+    },
+    "lucky_draw": {
+      "title": "Redeem lucky draw ticket",
       "content": "Confirm to use {} coins to redeem \"{}\"？"
     }
   },
