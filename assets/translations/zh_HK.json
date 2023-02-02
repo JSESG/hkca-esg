@@ -145,6 +145,9 @@
   "profile": {
     "points": "X{}"
   },
+  "lucky_draw": {
+    "ticket_no": "奬券編號：{}"
+  },
   "dialog": {
     "check_in": {
       "title": "打卡成功",
@@ -152,10 +155,15 @@
     },
     "redeem": {
       "title": "兌換成功",
-      "content": "使用{}個金幣兌換「{}」"
+      "content": "使用{}個金幣兌換「{}」",
+      "ticket_no": "你的奬券編號：{}\n我們會在稍後時間以SMS短訊公報抽奬結果，請留意我們的手機短訊。"
     },
     "prize": {
       "title": "兌換禮品",
+      "content": "確認使用{}個金幣兌換「{}」？"
+    },
+    "lucky_draw": {
+      "title": "兌換抽奖券",
       "content": "確認使用{}個金幣兌換「{}」？"
     }
   },
