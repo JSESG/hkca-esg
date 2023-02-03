@@ -152,7 +152,7 @@
     "redeem": {
       "title": "Redeem successfully",
       "content": "Used {} coins to redeem \"{}\"",
-      "ticket_no": "Your ticket No.:{}\nWe will announce the raffle results with SMS message later. Please pay attention to our mobile phone message."
+      "ticket_no": "Your ticket No.:{}\nThe lucky draw result will be informed via SMS. Stay tuned."
     },
     "prize": {
       "title": "Redeem gift",
