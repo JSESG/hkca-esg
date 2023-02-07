@@ -146,7 +146,7 @@
     "points": "X{}"
   },
   "lucky_draw": {
-    "ticket_no": "奬券編號：{}"
+    "ticket_no": "奬券編號："
   },
   "dialog": {
     "check_in": {
